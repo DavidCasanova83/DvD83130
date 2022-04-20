@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @DvD83130
+- 👋 Hi, I’m David Casanova
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and Javascript
-- 💞️ I’m looking to collaborate on begginer projects
+
+
+- 💞️ HTML5 and CSS3
+
+- 🌱 I’m currently learning - Javascript
+
 - 📫 How to reach me @dvd.csna
 
 <!---
